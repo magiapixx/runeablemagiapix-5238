@@ -15,3 +15,6 @@ Work: inset editorial hero, All/Brand/Digital filters, numbered split project sh
 About: large typographic hero with overlapping studio moodboard prints, studio story, numbered values and a three-step collaboration section. Existing photos are inspiration imagery, not fabricated team members.
 Services: bold lime-highlighted hero, two expanded paper-style capability sections (brand and digital), four-step process, native accessible FAQ disclosures and contact CTA. No pricing or fabricated claims.
 Motion: shared GSAP entrances and scroll reveals, desktop showcase parallax, reduced-motion bypass. Mobile stacks all split layouts. No API/database changes.
+
+## 2× whitespace revision
+Double the existing positive vertical margins, vertical padding, and row gaps across all four pages and dialogs, preserving fonts, horizontal content widths, illustration/mockup spacing, and photo compositions. Apply the same multiplier at each existing responsive breakpoint, including mobile. Increase navigation's empty vertical space by 2× (not the logo), and make project cards flexible so added spacing cannot clip content. ScrollTrigger continues measuring actual document height. Horizontal gutters remain mobile-safe.
