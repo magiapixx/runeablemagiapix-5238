@@ -2,6 +2,10 @@
 
 Runable copies this Bun and Turborepo project into each new sandbox.
 
+## Homepage
+
+![Magiapix homepage](./packages/web/public/homepage.png)
+
 The root package commands are the external contract:
 
 - `bun run dev` starts the web app.
